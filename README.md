@@ -1,90 +1,56 @@
-
-<div align="center">
-  
-  <!-- 🌌 BANNER ESPACIAL -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0C10,1F2833,0B0C10&height=220&section=header&text=🔴%20[TU%20NOMBRE%20COMPLETO%20AQUÍ]%20🔴&fontSize=42&animation=twinkling&fontColor=66FCF1&desc=🤖%20ESTUDIANTE%20DE%20AUTOMATIZACIÓN%20Y%20ROBÓTICA%20🤖&descSize=18&descAlignY=68" />
-
-</div>
+# 🤖 [Borda Ivan Ezequiel] | Automatización & Robótica
+> ⚙️ _Diseñando sistemas autónomos, optimizando procesos y puenteando hardware con software_
 
 ---
 
-## 🛰️ CENTRO DE CONTROL // DATOS PERSONALES
-*(💡 Reemplaza solo la columna derecha. Mantén la estructura intacta)*
-
-| 📌 CAMPO | 📝 TU INFORMACIÓN (EDITA ESTO) |
-|:---------|:--------------------------------|
-| 👤 **Nombre** | `🔴 [Borda Ivan Ezequiel]` |
-| 🎂 **Edad** | `🔴 [22] años` |
-| 📍 **Ubicación** | `🔴 [San Pedro de jujuy, Argentina]` |
-| 🎓 **Formación** | `🟢 Técnica en Automatización y Robótica` |
-| 🎯 **Enfoque** | `🔴 [EJ: Robótica Móvil, Visión Artificial]` |
-| 📅 **Disponible** | `🟡 [SÍ] para prácticas o colaboraciones` |
+## 📍 Datos Personales
+<!-- 📌 ZONA DE DATOS PERSONALES: Aquí puedes editar o eliminar sin afectar la estructura -->
+- **🏠 Ubicación:** [Argentina]
+- **🎓 Formación:** [Carrera] en [automatizacion y robotica] - [UCSE]
+- **📧 Contacto:** [ivanborda03@gmail.com]
+<!-- 🔚 FIN ZONA DE DATOS PERSONALES -->
 
 ---
 
-## ⚡ ARSENAL TECNOLÓGICO
-*(💡 Borra las tecnologías que NO manejes. Agrega más copiando una línea y cambiando el nombre)*
-<div align="center">
-
-| 🧠 Programación | 🔌 Hardware & Control | 🛠️ Herramientas |
-|:---------------:|:---------------------:|:---------------:|
-| `🟢 [Arduino]` | `🟢 [Git & GitHub]` |
-| `🔴 [C / C++]` | `🔴 [Tinkercad]` |
-| `🔴 [Sensores & Actuadores]` | `🔴 [VS Code]` |
-
-</div>
-
----
----
-
-## 📊 TELEMETRÍA GITHUB
-*(💡 Reemplaza `[IVANBORDA03]` en las 2 URLs. Escribe tu usuario EXACTO, sin @)*
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=🔴[TU_USUARIO_GITHUB]&show_icons=true&theme=dark&hide_border=true&bg_color=0B0C10&title_color=66FCF1&text_color=C5C6C7" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=🔴[TU_USUARIO_GITHUB]&layout=compact&theme=dark&hide_border=true&bg_color=0B0C10&title_color=66FCF1&text_color=C5C6C7" />
-  
-</div>
+## 🛠️ Stack Tecnológico & Herramientas
+- 🐍 **Lenguajes:** Python, C/C++, Bash, MATLAB
+- 🤖 **Robótica:** ROS/ROS2, MoveIt, Gazebo, Arduino, ESP32, Raspberry Pi, PLC (Siemens/TIA)
+- 📐 **Diseño & Simulación:** SolidWorks, Fusion 360, FreeCAD, URDF, Simulink
+- 🏭 **Automatización & IoT:** Node-RED, MQTT, Docker, Git/GitHub Actions, SCADA, OPC-UA
+- 📊 **Visión & Datos:** OpenCV, TensorFlow/PyTorch, Pandas, NumPy, Matplotlib
 
 ---
 
-## 📡 CANAL DE COMUNICACIÓN
-*(💡 Reemplaza solo los enlaces. Si no usas alguna red, borra la línea completa)*
-<div align="center">
-  
-  <a href="https://github.com/🔴[TU_USUARIO_GITHUB]">
-    <img src="https://img.shields.io/badge/GitHub-0B0C10?style=for-the-badge&logo=github&logoColor=66FCF1&labelColor=0B0C10" />
-  </a>
-  
-  <a href="mailto:🔴[ivanborda03@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0C10" />
-  </a>
-
-</div>
+## 🚀 Proyectos Destacados
+1. 🦾 **Brazo Robótico 6-DOF**  
+   _Control cinemático inverso, planificación de trayectorias con ROS2 + MoveIt2_
+2. 🏭 **Sistema de Visión para Línea de Envasado**  
+   _Detección de anomalías en tiempo real con OpenCV + Edge AI en Jetson Nano_
+3. 🌐 **Dashboard IoT + PLC**  
+   _Monitorización de sensores industriales vía MQTT, Node-RED y Grafana_
 
 ---
 
-<!-- 🌌 FOOTER -->
-<div align="center">
-  <br>
-  <sub>
-    🚀 <code>Construido con ❤️ y polvo estelar por 🔴[TU NOMBRE]</code> • 
-    🌙 <code>Última sincronización: 📅 Abril 2026</code>
-  </sub>
-  <br><br>
-  <pre style="color:#66FCF1; font-size:12px;">
-    ✧       ✦       ✧       ✦       ✧
-       🪐   🛰️   🌌   🤖   🌠
-    ✧       ✦       ✧       ✦       ✧
-  </pre>
-</div>
+## 📜 Cómo editar o eliminar tus datos personales
+<!-- ⚠️ INSTRUCCIONES DE EDICIÓN SEGURA -->
+1. Abre este archivo `README.md` en GitHub o en tu editor local (VS Code, Notion, etc.).
+2. Busca la sección delimitada por:
+   - `<!-- 📌 ZONA DE DATOS PERSONALES -->`
+   - `<!-- 🔚 FIN ZONA DE DATOS PERSONALES -->`
+3. **Para modificar:** Cambia solo el texto dentro de los corchetes `[...]` o después de los dos puntos.
+4. **Para eliminar:** Borra **todo** lo que hay entre esas dos etiquetas `<!-- -->` (incluyendo las propias etiquetas si no quieres dejar rastro).
+5. ✅ **Nota de seguridad:** Las etiquetas `<!-- -->` son comentarios en HTML/Markdown. GitHub los ignora al renderizar. Eliminar o modificar esta sección **no rompe** el resto del archivo ni afecta a las listas, enlaces o imágenes.
+<!-- 🔚 FIN INSTRUCCIONES -->
 
-<!-- 🎨 ESTILO MÍNIMO PARA EFECTO ESPACIAL (GitHub lo soporta) -->
-<style>
-  td, th { border: 1px solid #1F2833 !important; padding: 10px !important; }
-  th { background: #0B0C10 !important; color: #66FCF1 !important; }
-  img[alt*="shields"] { transition: all 0.2s ease; }
-  img[alt*="shields"]:hover { transform: translateY(-2px); filter: drop-shadow(0 0 6px #66FCF1); }
-  a { text-decoration: none !important; }
-</style>
+---
+
+## 📡 Conectemos
+¿Colaboramos en automatización, robótica colaborativa o integración de sistemas?  
+- 📩 [Email](mailto:tu.email@ejemplo.com)
+- 💼 [GitHub](https://github.com/tu-usuario)
+- 🔗 [LinkedIn](https://linkedin.com/in/tu-perfil)
+- 🐦 [Twitter/X](https://twitter.com/tu-usuario) *(opcional)*
+
+---
+⚡ _"La automatización no sustituye el criterio humano; lo escala."_  
+🔋 `Estado del sistema: ✅ Operativo | 📡 Conectado | 🧠 Aprendiendo`
