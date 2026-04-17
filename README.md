@@ -1,3 +1,3 @@
-# hola, soy [Ivan Ezequiel Borda]
-estudiante de la carrera tecnicatura en automatizacion y robotica 
-actualmente cursando informatica
+# Hola, soy [Ivan Ezequiel Borda]
+Estudiante de la carrera tecnicatura en automatizacion y robotica 
+Actualmente cursando informatica
