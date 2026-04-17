@@ -1,325 +1,314 @@
 <p align="center">
-  <!-- 🎬 BANNER ANIMADO PRINCIPAL -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9ib3RpY2FzdHVkaWFudCZlcD12MV9naWZzX2J5X2lkJmN0PWc/3o7abKhOpu0NwenH3O/giphy.gif" alt="Robotics Banner" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pdmVyc2l0eXN0dWRlbnQmZXA9djFfZ2lmc19ieV9pZCZjdD1n/l0HlQXlQcGxXeUxI/giphy.gif" alt="Student" width="300">
+</p>
+
+<h1 align="center">👨‍🎓 Estudiante de Ingeniería en Automatización y Robótica</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.deno.dev/?font=Fira+Code&pause=1000&color=0066CC&center=true&width=600&lines=🎓+Primer+Año+Universitario;📚+Aprendiendo+fundamentos;🤖+Arduino+%7C+C%2B%2B+%7C+Lógica;⚡+Automatización+y+Robótica" alt="Student Status">
 </p>
 
 <p align="center">
-  <!-- ✍️ ANIMACIÓN DE ESCRITURA TIPO TERMINAL -->
-  <img src="https://readme-typing-svg.deno.dev/?font=Fira+Code&pause=800&color=00FF88&center=true&width=600&height=80&lines=🤖+Futuro+Ingeniero+en+Automatización;⚡+Arduino+%7C+C%2B%2B+%7C+Lógica;🎓+Primer+Año+de+Universidad;+Aprendiendo+a+crear+el+futuro" alt="Typing Animation">
-</p>
-
-<p align="center">
-  <!-- 🎯 GIFs DECORATIVOS PEQUEÑOS -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJkdWlubyZlcD12MV9naWZzX2J5X2lkJmN0PWc/l0HlQXlQcGxXeUxI/giphy.gif" width="150" alt="Arduino">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29kaW5nJmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/3o7abB0aGz7qQvZ0nS/giphy.gif" width="150" alt="Coding">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9ib3QmZXA9djFfZ2lmc19ieV9pZCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="150" alt="Robot">
+  <img src="https://img.shields.io/badge/📚-Estudiante-0066CC?style=for-the-badge&logo=bookstack&logoColor=white" alt="Student">
+  <img src="https://img.shields.io/badge/🎓-Primer_Año-0077B5?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Year">
+  <img src="https://img.shields.io/badge/⚡-Aprendiendo-FF5722?style=for-the-badge&logo=rocket&logoColor=white" alt="Learning">
 </p>
 
 ---
 
-## 📍 DATOS PERSONALES
-<!-- 📌 ZONA SEGURA DE DATOS PERSONALES - Editar o borrar sin miedo -->
-<table align="center" style="border: 3px solid #00FF88; border-radius: 15px; background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 20px;">
+## 📋 INFORMACIÓN PERSONAL
+
+<!-- 📌 ZONA DE DATOS PERSONALES - Editar o eliminar sin afectar el resto -->
+<table align="center" style="border: 2px solid #0066CC; border-radius: 8px; background: #0d1117; padding: 15px; width: 70%;">
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNlcmljb24mZXA9djFfZ2lmc19ieV9pZCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="Profile">
-    </td>
-  </tr>
-  <tr>
-    <td>👤 **Nombre:**</td>
+    <td>👤 <strong>Nombre:</strong></td>
     <td>[Tu Nombre Completo]</td>
   </tr>
   <tr>
-    <td>🎂 **Edad:**</td>
+    <td>🎂 <strong>Edad:</strong></td>
     <td>[Tu Edad] años</td>
   </tr>
   <tr>
-    <td>🏫 **Universidad:**</td>
-    <td>[Nombre de tu Universidad]</td>
+    <td>🏫 <strong>Universidad:</strong></td>
+    <td>[Nombre de la Universidad]</td>
   </tr>
   <tr>
-    <td>📚 **Carrera:**</td>
-    <td>Ingeniería en Automatización y Robótica / Mecatrónica</td>
+    <td>📚 <strong>Carrera:</strong></td>
+    <td>Ingeniería en Automatización y Robótica</td>
   </tr>
   <tr>
-    <td>📍 **Ubicación:**</td>
-    <td>[Ciudad, País] 🌎</td>
+    <td>📍 <strong>Ubicación:</strong></td>
+    <td>[Ciudad, País]</td>
   </tr>
   <tr>
-    <td>📧 **Email:**</td>
+    <td>📧 <strong>Email:</strong></td>
     <td>[tu.email@ejemplo.com]</td>
   </tr>
-  <tr>
-    <td>🔗 **LinkedIn:**</td>
-    <td>[linkedin.com/in/tu-perfil]</td>
-  </tr>
 </table>
-<!-- 🔚 FIN ZONA SEGURA -->
+<!-- 🔚 FIN ZONA DE DATOS PERSONALES -->
 
 ---
 
-## 🎯 MI PERFIL
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVhcm5pbmcmZXA9djFfZ2lmc19ieV9pZCZjdD1n/l0HlNQ03J5JxX2rRe/giphy.gif" width="300" alt="Learning">
-</p>
-
-> ### 🌟 **Sobre Mí**
-> 
-> 👨‍💻 Estudiante de **primer año** apasionado por la **robótica** y la **automatización**  
-> 🔧 Actualmente aprendiendo los fundamentos de **Arduino**, **C++** y **lógica de programación**  
-> 🎓 En mi primer año de universidad, emocionado por cada nuevo proyecto  
-> 💡 Mi meta: Crear robots y sistemas automáticos que resuelvan problemas reales  
-> 🚀 **Nivel actual:** 🌱 Principiante entusiasta con muchas ganas de aprender
-
----
-
-## 🛠️ MIS CONOCIMIENTOS ACTUALES
+## 📚 MATERIAS DEL SEMESTRE
 
 <p align="center">
-  <!-- 📊 BARRA DE PROGRESO ANIMADA (simulada con GIF) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9hZGluZyZlcD12MV9naWZzX2J5X2lkJmN0PWc/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="Loading">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9va3NzdHVkeSZlcD12MV9naWZzX2J5X2lkJmN0PWc/3o7abB0aGz7qQvZ0nS/giphy.gif" alt="Books" width="200">
 </p>
 
-### 📚 Lo que estoy aprendiendo:
-
-<div align="center">
-<table style="border: none;">
+<table align="center" style="border: none; width: 90%;">
   <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJkdWlubzJnJmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/l0HlQXlQcGxXeUxI/giphy.gif" width="120" alt="Arduino"><br>
-      <strong>🔌 ARDUINO</strong><br>
-      <code>Nivel: Básico</code><br>
-      <em>• LEDs y sensores<br>• Protoboard<br>• Circuitos simples<br>• Sketches básicos</em>
+    <td align="center" style="border: 2px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h3>🖥️ Informática</h3>
+      <img src="https://skillicons.dev/icons?i=cpp,c,git,github&perline=4" alt="Programming"><br>
+      <details>
+        <summary><strong>📖 Contenidos</strong></summary>
+        • Lógica de programación<br>
+        • C++ básico<br>
+        • Algoritmos<br>
+        • Diagramas de flujo<br>
+        • Variables y operadores<br>
+        • Estructuras de control
+      </details>
     </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BsdXMmZXA9djFfZ2lmc19ieV9pZCZjdD1n/3o7abB0aGz7qQvZ0nS/giphy.gif" width="120" alt="C++"><br>
-      <strong>💻 C++</strong><br>
-      <code>Nivel: Principiante</code><br>
-      <em>• Variables y tipos<br>• Condicionales if/else<br>• Bucles for/while<br>• Funciones básicas</em>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9naWMmZXA9djFfZ2lmc19ieV9pZCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="120" alt="Logic"><br>
-      <strong>🧠 LÓGICA</strong><br>
-      <code>Nivel: En desarrollo</code><br>
-      <em>• Algoritmos simples<br>• Diagramas de flujo<br>• Resolución de problemas<br>• Pensamiento estructurado</em>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## 🎓 HERRAMIENTAS QUE USO
-
-<p align="center">
-  <!-- 🎨 ICONOS ANIMADOS DE HERRAMIENTAS -->
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,git,github,vscode,linux&perline=6" alt="Tools">
-</p>
-
-<div align="center">
-
-| 🛠️ **Software** | 🔧 **Hardware** | 📐 **Otros** |
-|-----------------|-----------------|--------------|
-| Arduino IDE 💚 | Arduino Uno 🟦 | Protoboard |
-| VS Code 💙 | Sensores (DHT11, HC-SR04) 📡 | Cables jumper |
-| Git & GitHub 🐙 | LEDs, resistencias 💡 | Multímetro |
-| Tinkercad (simulación) 🎨 | Servomotores 🔄 | Fuente de poder |
-
-</div>
-
----
-
-## 🚀 PROYECTOS EN LOS QUE TRABAJÉ
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJvamVjdHMmZXA9djFfZ2lmc19ieV9pZCZjdD1n/l0HlNQ03J5JxX2rRe/giphy.gif" width="500" alt="Projects">
-</p>
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVkYmxpbmsmZXA9djFfZ2lmc19ieV9pZCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="LED"><br>
-      <strong>💡 LED Parpadeante</strong><br>
-      <em>Mi primer circuito en Arduino</em><br>
-      <code>Arduino • C++ • LED</code><br>
-      ⭐⭐⭐⭐⭐
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Vuc29yJmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/l0HlQXlQcGxXeUxI/giphy.gif" width="200" alt="Sensor"><br>
-      <strong>📏 Sensor de Distancia</strong><br>
-      <em>HC-SR04 midiendo objetos</em><br>
-      <code>Arduino • Ultrasonido • Serial</code><br>
-      ⭐⭐⭐⭐☆
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV6JmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/3o7abB0aGz7qQvZ0nS/giphy.gif" width="200" alt="LEDs"><br>
-      <strong> Semáforo Inteligente</strong><br>
-      <em>3 LEDs con tiempos programados</em><br>
-      <code>Arduino • LEDs • Delay</code><br>
-      ⭐⭐⭐⭐☆
+    <td align="center" style="border: 2px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h3>🤖 Robótica I</h3>
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" alt="Robotics"><br>
+      <details>
+        <summary><strong>📖 Contenidos</strong></summary>
+        • Introducción a Arduino<br>
+        • Electrónica básica<br>
+        • Sensores y actuadores<br>
+        • Programación C/C++<br>
+        • Circuitos en protoboard<br>
+        • Puertos digitales/analógicos
+      </details>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnV0dG9uJmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/l0HlBO7eyXzSZkJri/giphy.gif" width="200" alt="Button"><br>
-      <strong>🔘 Botón ON/OFF</strong><br>
-      <em>Control con push button</em><br>
-      <code>Arduino • Input • Digital</code><br>
-      ⭐⭐⭐☆☆
+    <td align="center" style="border: 2px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h3>📐 Matemática I</h3>
+      <p>📊 Álgebra y funciones<br>📈 Ecuaciones<br>🔢 Números reales<br>📉 Límites y derivadas</p>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV6bGVkJmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/l0HlNQ03J5JxX2rRe/giphy.gif" width="200" alt="RGB"><br>
-      <strong>🌈 LED RGB</strong><br>
-      <em>Colores con PWM</em><br>
-      <code>Arduino • RGB • AnalogWrite</code><br>
-      ⭐⭐⭐☆☆
+    <td align="center" style="border: 2px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h3>🏭 Procesos Industriales</h3>
+      <p>🏭 Sistemas de producción<br>⚙️ Tipos de procesos<br>📋 Control de calidad<br>🔧 Mantenimiento</p>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVtcCZlcD12MV9naWZzX2J5X2lkJmN0PWc/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Temp"><br>
-      <strong>🌡️ Sensor de Temp</strong><br>
-      <em>Leyendo DHT11/DHT22</em><br>
-      <code>Arduino • DHT • Librerías</code><br>
-      ⭐⭐⭐☆☆
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="border: 2px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h3>⚗️ Química</h3>
+      <p>⚛️ Estructura atómica • 🔬 Enlaces químicos • 🧪 Reacciones • ⚖️ Estequiometría</p>
     </td>
   </tr>
 </table>
-</div>
 
 ---
 
-## 📈 MI PROGRESO EN GITHUB
+## 💻 PROYECTOS DE INFORMÁTICA
 
 <p align="center">
-  <!-- 📊 ESTADÍSTICAS DINÁMICAS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF88&icon_color=00FF88&hide=contribs,prs,stars" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=github_dark&hide_border=true&fire=FF5722&currStreakNum=00FF88" alt="Streak Stats" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29kaW5ncHJvamVjdCZlcD12MV9naWZzX2J5X2lkJmN0PWc/l0HlNQ03J5JxX2rRe/giphy.gif" alt="Coding Projects" width="400">
 </p>
 
-<p align="center">
-  <!-- 🏆 TOP LENGUAJES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&title_color=00FF88&text_color=00FF88" alt="Top Languages" width="400">
-</p>
-
-> 💡 *Nota: Las estadísticas se actualizan cada 24 horas. ¡No te preocupes si al inicio ves pocas! Lo importante es la constancia.*
+<table align="center" style="border: none; width: 95%;">
+  <tr>
+    <td style="border: 2px solid #30363d; border-radius: 8px; padding: 15px; text-align: center;">
+      <h4>🎲 Juego de Adivinanza</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FtZSZlcD12MV9naWZzX2J5X2lkJmN0PWc/3o7abKhOpu0NwenH3O/giphy.gif" width="150" alt="Game"><br>
+      <p>Programa interactivo en C++ donde el usuario adivina un número aleatorio</p>
+      <p><code>C++ • Random • Bucles • Condicionales</code></p>
+      <p>✅ <strong>Completado</strong></p>
+    </td>
+    <td style="border: 2px solid #30363d; border-radius: 8px; padding: 15px; text-align: center;">
+      <h4>🧮 Calculadora Básica</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FsY3VsYXRvciZlcD12MV9naWZzX2J5X2lkJmN0PWc/l0HlQXlQcGxXeUxI/giphy.gif" width="150" alt="Calculator"><br>
+      <p>Aplicación de consola que realiza operaciones matemáticas básicas</p>
+      <p><code>C++ • Funciones • Switch-case • I/O</code></p>
+      <p>🔄 <strong>En desarrollo</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #30363d; border-radius: 8px; padding: 15px; text-align: center;" colspan="2">
+      <h4>📊 Sistema de Calificaciones</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JhZGVzJmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/3o7abB0aGz7qQvZ0nS/giphy.gif" width="150" alt="Grades"><br>
+      <p>Programa para registrar y calcular promedios de calificaciones</p>
+      <p><code>C++ • Arrays • Funciones • Menús</code></p>
+      <p>🔄 <strong>En desarrollo</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 MIS METAS PARA ESTE AÑO
+## 🤖 PROYECTOS DE ROBÓTICA I
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29hbHMmZXA9djFfZ2lmc19ieV9pZCZjdD1n/l0HlQXlQcGxXeUxI/giphy.gif" width="350" alt="Goals">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9ib3Rwcm9qZWN0JmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/l0HlBO7eyXzSZkJri/giphy.gif" alt="Robotics Projects" width="400">
 </p>
 
-<div align="center">
-
-| 📅 **Corto Plazo** | 🎯 **Mediano Plazo** | 🚀 **Largo Plazo** |
-|-------------------|---------------------|-------------------|
-| ✅ Dominar Arduino básico | 🔲 Aprender ROS | 🔲 Robot autónomo |
-| ✅ Entender C++ a fondo | 🔲 Programar un drone | 🔲 Automatización industrial |
-| ✅ Crear 10 proyectos | 🔲 IoT con ESP32 | 🔲 Inteligencia Artificial |
-| ✅ Subir todo a GitHub | 🔲 Impresión 3D | 🔲 Competencias de robótica |
-
-</div>
+<table align="center" style="border: none; width: 95%;">
+  <tr>
+    <td style="border: 2px solid #30363d; border-radius: 8px; padding: 15px; text-align: center;">
+      <h4>💡 LED Parpadeante</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVkYmxpbmsmZXA9djFfZ2lmc19ieV9pZCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="150" alt="LED"><br>
+      <p>Primer circuito: control de LED con Arduino</p>
+      <p><code>Arduino • digitalWrite() • delay()</code></p>
+      <p>✅ <strong>Completado</strong></p>
+    </td>
+    <td style="border: 2px solid #30363d; border-radius: 8px; padding: 15px; text-align: center;">
+      <h4>🔘 Control con Botón</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnV0dG9uJmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/l0HlBO7eyXzSZkJri/giphy.gif" width="150" alt="Button"><br>
+      <p>Encendido/apagado de LED con push button</p>
+      <p><code>Arduino • digitalRead() • INPUT</code></p>
+      <p>✅ <strong>Completado</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #30363d; border-radius: 8px; padding: 15px; text-align: center;">
+      <h4>📏 Sensor de Distancia</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Vuc29yJmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/l0HlQXlQcGxXeUxI/giphy.gif" width="150" alt="Sensor"><br>
+      <p>Medición de distancia con HC-SR04</p>
+      <p><code>Arduino • HC-SR04 • pulseIn()</code></p>
+      <p>🔄 <strong>En desarrollo</strong></p>
+    </td>
+    <td style="border: 2px solid #30363d; border-radius: 8px; padding: 15px; text-align: center;">
+      <h4>🌈 LED RGB</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV6bGVkJmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/l0HlNQ03J5JxX2rRe/giphy.gif" width="150" alt="RGB"><br>
+      <p>Control de colores con LED RGB y PWM</p>
+      <p><code>Arduino • PWM • analogWrite()</code></p>
+      <p>⏳ <strong>Planificado</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📚 RECURSOS QUE ESTOY USANDO
+## 🛠️ HERRAMIENTAS QUE USO
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9va3MmZXA9djFfZ2lmc19ieV9pZCZjdD1n/3o7abB0aGz7qQvZ0nS/giphy.gif" width="300" alt="Books">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9vbHNzdHVkZW50JmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/3o7abB0aGz7qQvZ0nS/giphy.gif" alt="Tools" width="300">
 </p>
 
-- 📖 **Arduino:** [Arduino Project Handbook](https://www.arduino.cc/)
-- 💻 **C++:** [Learn C++](https://www.learncpp.com/)
-- 🎥 **YouTube:** [Programación ATS](https://www.youtube.com/user/ProgramacionATS), [Código Facilito](https://www.youtube.com/c/CodigoFacilito)
-- 🎮 **Simulación:** [Tinkercad Circuits](https://www.tinkercad.com/circuits)
-- 📝 **Documentación:** [Arduino Reference](https://www.arduino.cc/reference/en/)
+<p align="center">
+  <strong>💻 Programación:</strong><br>
+  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,linux&perline=6" alt="Programming Tools">
+</p>
+
+<p align="center">
+  <strong>🤖 Robótica:</strong><br>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" alt="Robotics Tools">
+</p>
+
+<table align="center" style="border: none; width: 80%;">
+  <tr>
+    <td align="center">
+      <h4>📝 Software</h4>
+      <p>💚 Arduino IDE<br>💙 VS Code<br>🐙 Git/GitHub<br>🎨 Tinkercad</p>
+    </td>
+    <td align="center">
+      <h4>🔧 Hardware</h4>
+      <p>🟦 Arduino Uno<br>📡 Sensores<br>💡 LEDs<br>🔌 Protoboard</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 ¡CONECTEMOS!
+## 📈 MI PROGRESO
 
 <p align="center">
-  <!-- 🎨 BADGES ANIMADOS DE CONTACTO -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&title_color=0066CC&icon_color=0066CC" alt="GitHub Stats" width="350">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=github_dark&hide_border=true&fire=FF5722&currStreakNum=0066CC" alt="Streak Stats" width="350">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&title_color=0066CC&text_color=0066CC" alt="Top Languages" width="400">
+</p>
+
+---
+
+## 🎯 METAS DEL SEMESTRE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29hbHNzdHVkZW50JmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/l0HlQXlQcGxXeUxI/giphy.gif" alt="Goals" width="300">
+</p>
+
+<table align="center" style="border: none; width: 90%;">
+  <tr>
+    <td style="border: 2px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h4>📚 Académicas</h4>
+      <ul>
+        <li>✅ Aprobar todas las materias</li>
+        <li>✅ Mantener promedio > 8.5</li>
+        <li>✅ Entregar todos los proyectos</li>
+        <li>✅ Participar en clase</li>
+      </ul>
+    </td>
+    <td style="border: 2px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h4>💻 Técnicas</h4>
+      <ul>
+        <li>✅ Dominar C++ básico</li>
+        <li>✅ Completar 5 proyectos Arduino</li>
+        <li>✅ Aprender Git/GitHub</li>
+        <li>✅ Documentar en GitHub</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📞 CONTACTO
+
+<p align="center">
   <a href="mailto:tu.email@ejemplo.com">
-    <img src="https://img.shields.io/badge/📧-Email-0A84FF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d1117" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/📧-Email-0066CC?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/💼-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
+    <img src="https://img.shields.io/badge/💼-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://discord.gg/tu-servidor">
-    <img src="https://img.shields.io/badge/💬-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord">
-  </a>
-</p>
-
-<p align="center">
-  <!-- 🎬 GIF FINAL MOTIVACIONAL -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29kaW5nbmlnaHQmZXA9djFfZ2lmc19ieV9pZCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="400" alt="Coding Night">
 </p>
 
 ---
 
-## 💬 FRASE DEL DÍA
-
-<p align="center">
-  <img src="https://readme-typing-svg.deno.dev/?font=Fira+Code&pause=3000&color=FFD700&center=true&width=600&height=60&lines=%22El+experto+en+cualquier+campo+fue+una+vez+un+principiante%22+-+Jack+Canfield" alt="Quote">
-</p>
-
----
-
-## 📝 INSTRUCCIONES PARA EDITAR TUS DATOS
-
-<!-- ⚠️ ZONA DE INSTRUCCIONES - Puedes borrar esto cuando termines de editar -->
+## 📝 INSTRUCCIONES PARA EDITAR
 
 <details>
-<summary><strong>🔧 Click aquí para ver cómo editar/borrar tus datos personales</strong></summary>
+<summary><strong>📌 Click para ver cómo editar tus datos</strong></summary>
 
-### 📌 Cómo modificar o eliminar tus datos personales (sin romper nada):
+### Cómo modificar o eliminar tus datos personales:
 
-1. **Abre el archivo** `README.md` en GitHub o en VS Code
-2. **Busca estas etiquetas:**
-   - Inicio: `<!-- 📌 ZONA SEGURA DE DATOS PERSONALES -->`
-   - Fin: `<!-- 🔚 FIN ZONA SEGURA -->`
-3. **Para modificar:**
-   - Cambia solo el texto dentro de los corchetes `[Tu Nombre]`, `[Ciudad]`, etc.
-   - O edita directamente el contenido de la tabla HTML
-4. **Para eliminar completamente:**
-   - Borra TODO lo que está entre las dos etiquetas (incluyendo la tabla `<table>...</table>`)
-   - Las etiquetas `<!-- -->` son comentarios invisibles
-5. **✅ Importante:**
-   - Esta sección está 100% aislada del resto del código
-   - Puedes borrarla sin afectar GIFs, estadísticas, badges ni formato
-   - GitHub ignora los comentarios HTML al mostrar el perfil
+1. **Busca estas etiquetas:**
+   - Inicio: `<!-- 📌 ZONA DE DATOS PERSONALES -->`
+   - Fin: `<!-- 🔚 FIN ZONA DE DATOS PERSONALES -->`
 
-### 🔐 Tips de privacidad:
-- Si no quieres mostrar tu email real, usa un alias o formulario de contacto
-- Puedes omitir tu edad si lo prefieres
-- LinkedIn es opcional pero recomendado para networking
+2. **Para editar:**
+   - Cambia el texto entre corchetes `[ ]`
+   - O modifica directamente en la tabla
+
+3. **Para eliminar:**
+   - Borra todo entre las dos etiquetas (incluyendo la tabla)
+   - Los comentarios `<!-- -->` no se ven en GitHub
+
+4. **✅ Seguro:**
+   - Esta sección está aislada del resto
+   - Puedes borrarla sin afectar nada más
 
 </details>
 
-<!-- 🔚 FIN INSTRUCCIONES -->
-
 ---
 
 <p align="center">
-  <!-- 🎨 GIF DECORATIVO FINAL -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9ib3RpY2FmdXR1cmUmZXA9djFfZ2lmc19ieV9pZCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="600" alt="Robotics Future">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3R1ZHlpbmduaWdodCZlcD12MV9naWZzX2J5X2lkJmN0PWc/l0HlBO7eyXzSZkJri/giphy.gif" alt="Studying" width="400">
 </p>
 
 <p align="center">
-  <sub>⚡ Hecho con ❤️, ☕ y mucha pasión por la robótica</sub><br>
-  <sub>🤖 <strong>"Cada error es una oportunidad de aprender. ¡Sigue codificando!"</strong></sub><br>
-  <sub>📅 Última actualización: <em>Abril 2026</em></sub>
+  <sub><strong>🎓 Estudiante de primer año</strong> | <strong>📚 Aprendiendo cada día</strong> | <strong>🤖 Futuro ingeniero</strong></sub><br>
+  <sub>📅 Actualizado: Abril 2026</sub>
 </p>
 
 <p align="center">
-  <!-- 🎯 BADGE DE ESTADO -->
-  <img src="https://img.shields.io/badge/🟢-Estado:-Aprendiendo-00FF88?style=for-the-badge&logo=github&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/📚-Modo:-Estudiante-0077B5?style=for-the-badge&logo=bookstack&logoColor=white" alt="Mode">
-  <img src="https://img.shields.io/badge/🚀-Próxima-Meta:-ROS-FF5722?style=for-the-badge&logo=rocket&logoColor=white" alt="Next Goal">
+  <img src="https://img.shields.io/badge/🟢-Estado:_Estudiante_Activo-0066CC?style=for-the-badge&logo=github&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/☕-Café:_3/3-FF5722?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Coffee">
+  <img src="https://img.shields.io/badge/💪-Motivación:_100%25-3FB950?style=for-the-badge&logo=stackexchange&logoColor=white" alt="Motivation">
 </p>
