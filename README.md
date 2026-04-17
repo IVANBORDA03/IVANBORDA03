@@ -1,56 +1,56 @@
-# 🤖 [Borda Ivan Ezequiel] | Automatización & Robótica
-> ⚙️ _Diseñando sistemas autónomos, optimizando procesos y puenteando hardware con software_
+<p align="center">
+  <!-- ✍️ ANIMACIÓN DE ESCRITURA (se mueve tipo terminal) -->
+  <img src="https://readme-typing-svg.deno.dev/?font=Fira+Code&pause=800&color=00FF88&center=true&width=520&lines=🤖+Ingeniero+en+Automatización+%26+Robótica;⚙️+Optimizando+sistemas+autónomos;📡+IoT+%7C+PLC+%7C+ROS2+%7C+Visión+Artificial" alt="Typing Animation">
+</p>
+
+<p align="center">
+  <!-- 🎬 GIF ANIMADO DE ROBÓTICA (puedes cambiarlo por otro de giphy/tenor) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRkZ2VqZ2VqZ2VqZ2VqZ2VqZ2VqZ2VqZ2VqZ2VqJmVwPXYxX2dpZnNfYnlfaWQmY3Q9Zw/l0HlBO7eyXzSZkJri/giphy.gif" alt="Robotics Animation" width="450">
+</p>
 
 ---
 
 ## 📍 Datos Personales
-<!-- 📌 ZONA DE DATOS PERSONALES: Aquí puedes editar o eliminar sin afectar la estructura -->
-- **🏠 Ubicación:** [Argentina]
-- **🎓 Formación:** [Carrera] en [automatizacion y robotica] - [UCSE]
-- **📧 Contacto:** [ivanborda03@gmail.com]
-<!-- 🔚 FIN ZONA DE DATOS PERSONALES -->
+<!-- 📌 ZONA SEGURA: Editar o borrar solo lo que está entre estas etiquetas. No afecta al resto del perfil -->
+<table align="center" style="border:none; background:#0d1117; padding:15px; border-radius:10px;">
+  <tr>
+    <td>👤 **Nombre:** [Tu Nombre]</td>
+    <td>🎓 **Estudios:** [Carrera/Grado] en [Especialidad]</td>
+  </tr>
+  <tr>
+    <td>🏢 **Ubicación:** [Ciudad, País]</td>
+    <td>📧 **Email:** [tu.email@ejemplo.com]</td>
+  </tr>
+  <tr>
+    <td>🔗 **LinkedIn:** [linkedin.com/in/tu-perfil]</td>
+    <td>🌐 **Portfolio:** [https://tusitio.com]</td>
+  </tr>
+</table>
+<!-- 🔚 FIN ZONA SEGURA -->
 
 ---
 
-## 🛠️ Stack Tecnológico & Herramientas
-- 🐍 **Lenguajes:** Python, C/C++, Bash, MATLAB
-- 🤖 **Robótica:** ROS/ROS2, MoveIt, Gazebo, Arduino, ESP32, Raspberry Pi, PLC (Siemens/TIA)
-- 📐 **Diseño & Simulación:** SolidWorks, Fusion 360, FreeCAD, URDF, Simulink
-- 🏭 **Automatización & IoT:** Node-RED, MQTT, Docker, Git/GitHub Actions, SCADA, OPC-UA
-- 📊 **Visión & Datos:** OpenCV, TensorFlow/PyTorch, Pandas, NumPy, Matplotlib
+## 🛠️ Stack Tecnológico
+<p align="center">
+  <!-- ICONOS CON EFECTO HOVER (se mueven al pasar el cursor) -->
+  <img src="https://skillicons.dev/icons?i=py,cpp,arduino,ros,docker,git,github,vscode,linux,mqtt,nodejs&perline=10" alt="Tech Stack">
+</p>
+
+| 🤖 Hardware & Control | 📐 Simulación & Diseño | ☁️ Cloud & IoT |
+|----------------------|-----------------------|---------------|
+| `ESP32` `Arduino` `Raspberry Pi` `PLC Siemens` `STM32` | `SolidWorks` `Fusion360` `Gazebo` `URDF` `MATLAB` | `AWS IoT` `Node-RED` `MQTT` `Docker` `Kubernetes` |
+| `ROS2` `MoveIt` `Servos` `Actuadores` `Sensores LIDAR/Cámara` | `Simulink` `FreeCAD` `KiCad` `Eagle` | `Grafana` `InfluxDB` `HomeAssistant` `Firebase` |
 
 ---
 
 ## 🚀 Proyectos Destacados
-1. 🦾 **Brazo Robótico 6-DOF**  
-   _Control cinemático inverso, planificación de trayectorias con ROS2 + MoveIt2_
-2. 🏭 **Sistema de Visión para Línea de Envasado**  
-   _Detección de anomalías en tiempo real con OpenCV + Edge AI en Jetson Nano_
-3. 🌐 **Dashboard IoT + PLC**  
-   _Monitorización de sensores industriales vía MQTT, Node-RED y Grafana_
-
----
-
-## 📜 Cómo editar o eliminar tus datos personales
-<!-- ⚠️ INSTRUCCIONES DE EDICIÓN SEGURA -->
-1. Abre este archivo `README.md` en GitHub o en tu editor local (VS Code, Notion, etc.).
-2. Busca la sección delimitada por:
-   - `<!-- 📌 ZONA DE DATOS PERSONALES -->`
-   - `<!-- 🔚 FIN ZONA DE DATOS PERSONALES -->`
-3. **Para modificar:** Cambia solo el texto dentro de los corchetes `[...]` o después de los dos puntos.
-4. **Para eliminar:** Borra **todo** lo que hay entre esas dos etiquetas `<!-- -->` (incluyendo las propias etiquetas si no quieres dejar rastro).
-5. ✅ **Nota de seguridad:** Las etiquetas `<!-- -->` son comentarios en HTML/Markdown. GitHub los ignora al renderizar. Eliminar o modificar esta sección **no rompe** el resto del archivo ni afecta a las listas, enlaces o imágenes.
-<!-- 🔚 FIN INSTRUCCIONES -->
-
----
-
-## 📡 Conectemos
-¿Colaboramos en automatización, robótica colaborativa o integración de sistemas?  
-- 📩 [Email](mailto:tu.email@ejemplo.com)
-- 💼 [GitHub](https://github.com/tu-usuario)
-- 🔗 [LinkedIn](https://linkedin.com/in/tu-perfil)
-- 🐦 [Twitter/X](https://twitter.com/tu-usuario) *(opcional)*
-
----
-⚡ _"La automatización no sustituye el criterio humano; lo escala."_  
-🔋 `Estado del sistema: ✅ Operativo | 📡 Conectado | 🧠 Aprendiendo`
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1qZ3Z4eG1qZ3Z4eG1qZ3Z4eG1qZ3Z4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB0aGz7qQvZ0nS/giphy.gif" width="250" alt="Brazo Robótico"><br>
+        <strong>🦾 Brazo 6-DOF</strong><br>
+        <em>Cinemática inversa + ROS2 + MoveIt2</em>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1qZ3Z4eG1qZ3Z4eG1qZ3Z4eG1qZ3Z4eCZlcD12MV9pbnRlcm5hbF9naWZ
